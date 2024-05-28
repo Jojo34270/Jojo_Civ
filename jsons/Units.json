@@ -2,7 +2,7 @@
 	{
 		"name": "Josuke",
 		"unitType": "Civilian",
-		"uniqueTo": "Jojo_Civ",
+		"uniqueTo": "Jojo Civ",
 		"replaces": "Worker",
 		"movement": 2,
 		"strength": 10,
