@@ -8,7 +8,7 @@
 		"rangedStrength": 16,
 		"range": 1,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 100
+		"cost": 100,
 	},
 
 [
