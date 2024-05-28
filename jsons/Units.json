@@ -11,5 +11,20 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 100,
 		"unitImage": "Josuke",
-	}
-]
+	},
+	
+	{
+		"name": "Old Joseph",
+		"unitType": "Civilian",
+		"uniqueTo": "Jojo Civ",
+		"replaces": "Settler",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 9,
+		"range": 1,
+		"cost": 140,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+
