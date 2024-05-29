@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Josuke",
-		"unitType": "Civilian",
-		"uniqueTo": "Jojo Civ",
-		"replaces": "Worker",
-		"movement": 2,
-		"strength": 10,
-		"rangedStrength": 16,
-		"range": 1,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 100,
-		"unitImage": "Josuke Unit",
+  		"name": "Josuke",
+  		"unitType": "Civilian",
+  		"uniqueTo": "Jojo Civ",
+  		"replaces": "Worker",
+  		"movement": 2,
+  		"strength": 10,
+  		"rangedStrength": 16,
+  		"range": 1,
+  		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+ 		"cost": 100,
+  		"unitImage": "Josuke Unit"
 	},
+
 	
 	{
 		"name": "Old Joseph",
